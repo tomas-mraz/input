@@ -16,6 +16,7 @@ const (
 	KeyS
 	KeyD
 	KeySpace
+	KeyEnter
 	KeyShift
 	KeyCtrl
 	KeyEscape
